@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srivastavas08
+- 👋 Hi, I’m Kiran Chandra (KC)
 - 👀 I’m interested in Python Web FrameWorks and Machine Learning and AI 
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Python Frameworks
